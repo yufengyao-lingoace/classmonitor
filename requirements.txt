@@ -1,0 +1,24 @@
+# dlib==19.21.1
+scikit-build
+scikit-image
+numpy
+# Pillow
+# protobuf
+requests
+imageio
+imageio-ffmpeg
+onnxruntime
+pydub
+ffmpeg-python
+opencv_python
+opencv-contrib-python
+mediapipe
+bucketstore
+# hyperpyyaml
+# joblib
+# packaging
+# scipy
+# sentencepiece
+# tqdm
+# huggingface_hub
+# speechbrain
